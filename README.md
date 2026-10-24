@@ -13,6 +13,8 @@ Resolvo problemas reais de gestão com <b>Lean, Kanban, 5S e Six Sigma</b> — e
 
 ---
 
+> **Perfil híbrido:** gestão da produção + vivência no setor óptico + IA aplicada. Eu enxergo o problema no chão da operação e entrego a solução funcionando — dois sistemas em uso real, construídos assim.
+
 ### Como eu trabalho
 
 Não sou programador de formação. Sou alguém que **enxerga o processo**, mede, encontra o desperdício e busca a solução — e hoje a IA me permite ir além da planilha e entregar a solução como software usado de verdade.
