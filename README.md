@@ -49,9 +49,9 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 
 ---
 
-### 🎯 Buscando
+### 🎯 Aberto a oportunidades
 
-Oportunidades de **estágio ou trainee em Engenharia de Produção, Melhoria Contínua, PCP, Qualidade ou Operações**, onde eu possa unir gestão da produção e tecnologia para resolver problemas do dia a dia.
+Em **Engenharia de Produção, Melhoria Contínua, PCP, Qualidade e Operações** — onde eu possa unir gestão da produção e tecnologia para resolver problemas do dia a dia.
 
 ### 📫 Contato
 
