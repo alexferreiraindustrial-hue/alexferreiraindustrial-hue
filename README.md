@@ -40,7 +40,7 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 
 ---
 
-### 🔬 Projeto em destaque — [Laboratório Óptico · OticaHub Lab](https://github.com/alexferreiraindustrial-hue/laboratorio-optico)
+### 🔬 Projeto 1 — [Laboratório Óptico · OticaHub Lab](https://github.com/alexferreiraindustrial-hue/laboratorio-optico)
 
 **Problema:** em um laboratório de montagem de óculos o controle era em papel e WhatsApp — ninguém sabia em que etapa estava cada serviço e o atraso só aparecia quando o cliente cobrava.
 
@@ -58,6 +58,16 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 📄 **[Leia o estudo de caso completo no roteiro DMAIC](https://github.com/alexferreiraindustrial-hue/laboratorio-optico/blob/main/docs/estudo-de-caso.md)** · 🗺️ **[Roadmap de melhorias](https://github.com/alexferreiraindustrial-hue/laboratorio-optico/issues)**
 
 <sub>Construído com Next.js, TypeScript e Supabase (PostgreSQL), com apoio de IA.</sub>
+
+### 🏪 Projeto 2 — [ERP Ótica · OticaHub](https://github.com/alexferreiraindustrial-hue/erp-otica)
+
+**ERP web completo para óticas, construído do zero ao final com IA e em uso real por uma empresa.** Código privado — [veja a vitrine do projeto](https://github.com/alexferreiraindustrial-hue/erp-otica).
+
+- Receitas oftálmicas com **leitura automática por IA (OCR)**, vendas, ordem de serviço, estoque com baixa automática, financeiro com DRE, CRM em Kanban e agenda
+- **API First**: webhooks, integração com **n8n** e WhatsApp e API para agentes de IA
+- Planejado como projeto de engenharia: **22 módulos**, cada um com o mesmo ciclo padronizado de 12 etapas e revisão de qualidade
+
+<sub>Next.js · TypeScript · Prisma · PostgreSQL · n8n · IA</sub>
 
 ---
 
