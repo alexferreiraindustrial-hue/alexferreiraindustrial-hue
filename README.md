@@ -1,5 +1,5 @@
 <h1 align="center">Alex Ferreira</h1>
-<p align="center"><b>Estudante de Engenharia de Produção · Técnico em Óptica</b><br>
+<p align="center"><b>Estudante de Engenharia de Produção (UniFatecie) · Técnico em Óptica · Lean Six Sigma Yellow Belt</b><br>
 Resolvo problemas reais de gestão com <b>Lean, Kanban, 5S e Six Sigma</b> — e uso a <b>Inteligência Artificial</b> para transformar a solução em sistema funcionando.</p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 
 ### 🎯 Aberto a oportunidades
 
-Em **Engenharia de Produção, Melhoria Contínua, PCP, Qualidade e Operações** — onde eu possa unir gestão da produção e tecnologia para resolver problemas do dia a dia.
+De **estágio** em **Engenharia de Produção, Melhoria Contínua, PCP, Qualidade e Operações** — onde eu possa unir gestão da produção e tecnologia para resolver problemas do dia a dia.
 
 ### 📫 Contato
 
