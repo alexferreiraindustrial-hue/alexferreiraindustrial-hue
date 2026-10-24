@@ -36,7 +36,7 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 | Lean · Kanban · 5S | Claude e outros modelos de IA | Next.js · TypeScript |
 | Six Sigma (DMAIC) · PDCA | MCP (Model Context Protocol) | Supabase · PostgreSQL |
 | Gestão visual · indicadores | n8n · integrações via API | Vercel · GitHub Actions |
-| Mapeamento de processos | CRM · WhatsApp | Excel / Power BI |
+| Mapeamento de processos | CRM · WhatsApp | Git · GitHub |
 
 ---
 
