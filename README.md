@@ -24,7 +24,19 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 - 🏭 **Gestão da produção:** fluxo de valor, gargalos, trabalho padronizado, gestão visual e indicadores
 - 📊 **Melhoria contínua:** PDCA, DMAIC, 5S, Kanban, poka-yoke e qualidade na fonte
 - 🤖 **IA como ferramenta de engenharia:** eu defino processo, regras e critérios de aceite; a IA ajuda a construir; eu valido em uso real
+- 🔗 **Integração e automação:** conecto as ferramentas da operação por **API** e **MCP**, monto fluxos no **n8n**, integro **CRM** e WhatsApp — sem retrabalho e sem planilha paralela
 - 👓 **Setor óptico:** formação técnica e vivência dentro de laboratório de montagem
+
+---
+
+### 🧰 Ferramentas que uso para resolver
+
+| Gestão e melhoria | IA e automação | Para construir |
+| --- | --- | --- |
+| Lean · Kanban · 5S | Claude e outros modelos de IA | Next.js · TypeScript |
+| Six Sigma (DMAIC) · PDCA | MCP (Model Context Protocol) | Supabase · PostgreSQL |
+| Gestão visual · indicadores | n8n · integrações via API | Vercel · GitHub Actions |
+| Mapeamento de processos | CRM · WhatsApp | Excel / Power BI |
 
 ---
 
@@ -55,4 +67,5 @@ Em **Engenharia de Produção, Melhoria Contínua, PCP, Qualidade e Operações*
 
 ### 📫 Contato
 
-🌐 [oticahub.com](https://oticahub.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Alex%20Silva%20Ferreira-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-alex-silva-ferreira-65434a298/)
+[![Site](https://img.shields.io/badge/Site-antonio.oticahub.com-0e6b62?style=for-the-badge)](https://antonio.oticahub.com)
