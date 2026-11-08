@@ -13,7 +13,9 @@ Resolvo problemas reais de gestão com <b>Lean, Kanban, 5S e Six Sigma</b> — e
 
 ---
 
-> **Perfil híbrido:** gestão da produção + vivência no setor óptico + IA aplicada. Eu enxergo o problema no chão da operação e entrego a solução funcionando — dois sistemas em uso real, construídos assim.
+> **Perfil híbrido:** gestão da produção + vivência no setor óptico + IA aplicada. Eu enxergo o problema no chão da operação e entrego a solução funcionando — três sistemas em uso real, construídos assim.
+>
+> **O que me guia:** os maiores erros estão em complicar o que era para ser simples. A indústria sempre tem o que organizar, mesmo com poucos recursos, e a tecnologia de hoje permite que quem conhece o processo construa a solução.
 
 ### Como eu trabalho
 
@@ -70,6 +72,26 @@ Problema no dia a dia  →  mapear o processo  →  medir  →  causa raiz  → 
 - Planejado como projeto de engenharia: **22 módulos**, cada um com o mesmo ciclo padronizado de 12 etapas e revisão de qualidade
 
 <sub>Next.js · TypeScript · Prisma · PostgreSQL · n8n · IA</sub>
+
+### 🏭 Projeto 3 — [CRM Industrial](https://github.com/alexferreiraindustrial-hue/crm-industrial)
+
+**Elaborado em conjunto com [Bruna Raphaela de Paula](https://www.linkedin.com/in/bruna-raphaela-de-paula-4427802bb/), profissional de logística e estudante de bacharelado em Administração.** Código privado — [veja a vitrine do projeto](https://github.com/alexferreiraindustrial-hue/crm-industrial).
+
+**Problema:** a informação entre setores nasce no WhatsApp e se perde no celular de uma pessoa. O comercial combina um prazo, a produção não vê e a logística cobra de novo.
+
+**Solução:** um CRM aplicado a uma operação real, que serve a qualquer tipo de empresa:
+
+| Ferramenta | Como virou solução |
+| --- | --- |
+| Kanban | Quadros com colunas da própria operação, tempo em cada etapa e checklist por serviço |
+| Gestão visual | Cor por prazo nos cards e cor de prioridade no contato, já na lista de conversas |
+| Poka-yoke | A mesma conversa não abre dois cards no mesmo quadro, e excluir pede confirmação |
+| Trabalho padronizado | Modelos de quadro e checklist específico para cada serviço |
+| Redução de desperdício | Alerta um dia antes e no dia do prazo, sem depender da memória de alguém |
+
+Por meio da **ANTONIO ALEX SILVA FERREIRA LTDA**, empresa de licenciamento e construção de sistemas e software personalizado, a estrutura apoia o objetivo de habilitação como Tech Provider da Meta.
+
+<sub>Adaptado sobre software de atendimento aberto (Chatwoot CE, licença MIT), com Docker e PostgreSQL, e com apoio de IA.</sub>
 
 ---
 
